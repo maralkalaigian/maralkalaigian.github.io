@@ -12,6 +12,7 @@ Academic Portfolio and Projects
 
 ### Background
 Alcohol dehydrogenase (ADH; I.U.B. 1.1.1.1)[^1] is an enzyme that consists of two subunits of equal weight, 40 kDa each. ADH can be found in mammalians, many bacteria, and yeast. ADH oxidizes primary and secondary alcohols to form aldehydes and ketones (Figure 1).[^2]
+<img width="590" alt="Screenshot 2025-01-14 at 8 44 05 PM" src="https://github.com/user-attachments/assets/38f77dda-8cdc-455e-979a-cbe3d79201a3" />
 
 > **Figure 1. General Reaction of Alcohol Dehydrogenase.**  
 > ADH metabolizes (oxidizes) alcohol to produce aldehydes or ketones. This process requires the reduction of NAD\^+\ to NADH. NAD serves as a cofactor.[^3]

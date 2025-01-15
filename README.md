@@ -21,6 +21,7 @@ There are seven different ADH genes, all of which have the most abundant express
 
 The enzyme alcohol dehydrogenase, **1ADC**, was isolated from the horse liver of the species *Equus caballus*. The protein was expressed in the bacteria *E. coli* for the crystallography in 1994 by Li H. et al.[^4]
 
+<img width="542" alt="Screenshot 2025-01-14 at 8 46 39 PM" src="https://github.com/user-attachments/assets/32a46881-27d4-4042-8bc3-eec6abc5ca4f" />
 
 > **Figure 2. Three-dimensional structure of horse liver alcohol dehydrogenase.**  
 > The alcohol dehydrogenase isolated from horse liver (1ADC) is an 80 kDa dimeric NAD-dependent enzyme.  
@@ -31,12 +32,16 @@ The overall structure of horse liver alcohol dehydrogenase (LADH) and human alco
 
 First, ADH binds to the cofactor NAD\^+. This results in a conformational change of the enzyme, and in turn, the water ligand gets displaced by the alcohol substrate. The zinc ion holds the hydroxyl group of the alcohol in place. The zinc-bound alcohol substrate is then deprotonated, forming a zinc alkoxide intermediate. The zinc ion, a positively charged cation, stabilizes the intermediate formed and facilitates the hydride transfer from the substrate to the cofactor. This process yields an aldehyde (that is zinc-bound) and NADH. The aldehyde gets displaced by a water molecule, and the NADH is released as the enzyme returns to its original form, ready to oxidize the next alcohol substrate (Figure 3).[^2][^4][^5][^6]
 
+<img width="435" alt="Screenshot 2025-01-14 at 8 52 46 PM" src="https://github.com/user-attachments/assets/093dc51b-c464-46db-90e0-8dd9148ef8d5" />
+
 > **Figure 3. The catalytic mechanism of action for alcohol dehydrogenase**[^5]
 
 ### Rationale
 Secondary alcohols are generally poor substrates for alcohol dehydrogenase. An example of a primary alcohol is methanol, which is oxidized by alcohol dehydrogenase to be converted to formaldehyde and subsequently to formic acid.[^7] While methanol itself is not toxic, its metabolite (formaldehyde) can cause tissue damage and severe illnesses like metabolic acidosis, blindness, cardiovascular instability, or death.[^7] The eyes carry a sensitivity to formaldehyde, leading to blindness.[^8]
 
 In multiple research studies, treatment of methanol poisoning was carried out by testing the ability of the compound **4-methyl-1H-pyrazole (Fomepizole)** (Figure 4) as an inhibitor. The potential of the primary alcohol ethanol as an inhibitor was also tested; however, Fomepizole has a higher affinity for ADH than ethanol. Both Fomepizole and ethanol were found to act as competitive inhibitors of LADH.[^7][^8][^9]
+
+<img width="154" alt="Screenshot 2025-01-14 at 8 53 04 PM" src="https://github.com/user-attachments/assets/5e215554-6d57-488f-a3ba-a0c05b67a95f" />
 
 > **Figure 4. Structure of the inhibitor 4-methyl-1H-pyrazole (Fomepizole).**[^10]
 
@@ -53,6 +58,8 @@ The goal of the research proposed in this Letter of Intent is to carry out the t
 
 1. **Design of LADH Activity Assay**  
    LADH converts methanol to colorless formaldehyde; the cofactor NAD\^+ is reduced to NADH, which has a yellow colour (Figure 5). The production of NADH can be used to determine enzyme activity by measuring absorption at 340 nm (ε = 6.22 mM⁻¹cm⁻¹). The reaction will proceed for 5 minutes upon addition of the enzyme, and absorbance values will be measured using a spectrophotometer in a continuous method. For this proposed research, **human liver alcohol dehydrogenase (LADH)** will be used.[^11]
+
+<img width="572" alt="Screenshot 2025-01-14 at 8 53 23 PM" src="https://github.com/user-attachments/assets/0a44d68f-798c-4672-b3cf-21283f42d9d7" />
 
    > **Figure 5. Chemical reaction of methanol by the enzyme LADH.**  
    > (*Created using ChemDraw*)
